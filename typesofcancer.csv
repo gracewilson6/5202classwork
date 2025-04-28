@@ -1,186 +1,186 @@
-﻿"VD,cancer,,,,,"
-"2,gastrointestinal stromal tumor,,,,,"
-"22,gastrointestinal stromal tumor,,,,,"
-"33,gastrointestinal stromal tumor,,,,,"
-"22,gastrointestinal stromal tumor,,,,,"
-"11.9,gastrointestinal stromal tumor,,,,,"
-"12.5,gastrointestinal stromal tumor,,,,,"
-"13.4,gastrointestinal stromal tumor,,,,,"
-"49,gastrointestinal stromal tumor,,,,23.16521739,"
-"48,gastrointestinal stromal tumor,,,,23.37777778,"
-"19,gastrointestinal stromal tumor,,,,,"
-"14,gastrointestinal stromal tumor,,,,,"
-"52,gastrointestinal stromal tumor,,,,,"
-"21,gastrointestinal stromal tumor,,,,,"
-"11,gastrointestinal stromal tumor,,,,,"
-"18,gastrointestinal stromal tumor,,,,,"
-"17,gastrointestinal stromal tumor,,,,,"
-"1,gastrointestinal stromal tumor,,,,,"
-"9,gastrointestinal stromal tumor,,,,,"
-"78,gastrointestinal stromal tumor,,,,,"
-"2,gastrointestinal stromal tumor,,,,,"
-"22,gastrointestinal stromal tumor,,,,,"
-"33,gastrointestinal stromal tumor,,,,,"
-"22,gastrointestinal stromal tumor,,,,,"
-"11.9,carcinoid tumor,,,,,"
-"12.5,carcinoid tumor,,,,,"
-"13.4,carcinoid tumor,,,,,"
-"49,carcinoid tumor,,,,,"
-"48,carcinoid tumor,,,,,"
-"19,carcinoid tumor,,,,,"
-"14,carcinoid tumor,,,,,"
-"52,carcinoid tumor,,,,,"
-"21,carcinoid tumor,,,,,"
-"11,carcinoid tumor,,,,,"
-"18,carcinoid tumor,,,,,"
-"17,carcinoid tumor,,,,,"
-"1,carcinoid tumor,,,,,"
-"9,carcinoid tumor,,,,,"
-"78,carcinoid tumor,,,,,"
-"11,carcinoid tumor,,,,,"
-"18,carcinoid tumor,,,,,"
-"17,carcinoid tumor,,,,,"
-"1,lymphoma,,,,,"
-"9,lymphoma,,,,,"
-"78,lymphoma,,,,,"
-"2,lymphoma,,,,,"
-"22,lymphoma,,,,,"
-"33,lymphoma,,,,,"
-"22,lymphoma,,,,,"
-"11.9,lymphoma,,,,,"
-"12.5,lymphoma,,,,,"
-"13.4,lymphoma,,,,,"
-"44,lymphoma,,,,,"
-"19,lymphoma,,,,,"
-"2.3,adenocarcinoma,,,,,"
-"4.8,adenocarcinoma,,,,19.06296296,"
-"11.9,adenocarcinoma,,,,,"
-"18.2,adenocarcinoma,,,,,"
-"23,adenocarcinoma,,,,,"
-"68,adenocarcinoma,,,,,"
-"4.3,adenocarcinoma,,,,,"
-"8.5,adenocarcinoma,,,,,"
-"33.9,adenocarcinoma,,,,,"
-"14.4,adenocarcinoma,,,,,"
-"13.2,adenocarcinoma,,,,,"
-"6.6,adenocarcinoma,,,,,"
-"7.8,adenocarcinoma,,,,,"
-"19,adenocarcinoma,,,,,"
-"22,adenocarcinoma,,,,,"
-"28,adenocarcinoma,,,,,"
-"4,adenocarcinoma,,,,,"
-"44,adenocarcinoma,,,,,"
-"23,adenocarcinoma,,,,,"
-"16,adenocarcinoma,,,,,"
-"15,adenocarcinoma,,,,,"
-"12,adenocarcinoma,,,,,"
-"39.8,adenocarcinoma,,,,,"
-"44,adenocarcinoma,,,,,"
-"10,adenocarcinoma,,,,,"
-"11,adenocarcinoma,,,,,"
-"10,adenocarcinoma,,,,,"
-"22,squamous cell carcinoma,,,,,"
-"28,squamous cell carcinoma,,,,,"
-"4,squamous cell carcinoma,,,,,"
-"44,squamous cell carcinoma,,,,,"
-"23,squamous cell carcinoma,,,,,"
-"16,squamous cell carcinoma,,,,,"
-"15,squamous cell carcinoma,,,,,"
-"12,squamous cell carcinoma,,,,,"
-"39.8,squamous cell carcinoma,,,,,"
-"44,squamous cell carcinoma,,,,,"
-"10,squamous cell carcinoma,,,,,"
-"11,squamous cell carcinoma,,,,,"
-"10,squamous cell carcinoma,,,,,"
-"22,squamous cell carcinoma,,,,,"
-"11.9,squamous cell carcinoma,,,,,"
-"12.5,squamous cell carcinoma,,,,,"
-"13.4,squamous cell carcinoma,,,,,"
-"44,squamous cell carcinoma,,,,,"
-"19,squamous cell carcinoma,,,,,"
-"2.3,squamous cell carcinoma,,,,,"
-"4.8,squamous cell carcinoma,,,,,"
-"11.9,squamous cell carcinoma,,,,,"
-"18.2,squamous cell carcinoma,,,,,"
-"23,squamous cell carcinoma,,,,,"
-"68,squamous cell carcinoma,,,,,"
-"4.3,squamous cell carcinoma,,,,,"
-"8.5,squamous cell carcinoma,,,,,"
-"33.9,melanoma,,,,,"
-"14.4,melanoma,,,,,"
-"13.2,melanoma,,,,,"
-"9,melanoma,,,,,22"
-"78,melanoma,,,,,18.57222222"
-"11,melanoma,,,,,"
-"18,melanoma,,,,,"
-"17,melanoma,,,,,"
-"1,melanoma,,,,,"
-"9,melanoma,,,,,"
-"78,melanoma,,,,,"
-"2,melanoma,,,,,"
-"22,melanoma,,,,,"
-"33,melanoma,,,,,"
-"22,melanoma,,,,,"
-"11.9,melanoma,,,,,"
-"12.5,melanoma,,,,,"
-"13.4,anal cancer,,,,,"
-"44,anal cancer,,,,,"
-"19,anal cancer,,,,,"
-"2.3,anal cancer,,,,,"
-"4.8,anal cancer,,,,,"
-"11.9,anal cancer,,,,,"
-"18.2,anal cancer,,,,,"
-"23,anal cancer,,,,,"
-"68,anal cancer,,,,,"
-"4.3,anal cancer,,,,,"
-"8.5,anal cancer,,,,,"
-"33.9,anal cancer,,,,,"
-"14.4,anal cancer,,,,,"
-"13.2,anal cancer,,,,,"
-"6.6,anal cancer,,,,,"
-"7.8,anal cancer,,,,,"
-"19,anal cancer,,,,,"
-"22,anal cancer,,,,,"
-"28,hereditary cancer,,,,29.71111111,"
-"12,hereditary cancer,,,,,"
-"44,hereditary cancer,,,,,"
-"23,hereditary cancer,,,,,"
-"16,hereditary cancer,,,,,"
-"15,hereditary cancer,,,,,"
-"12,hereditary cancer,,,,,"
-"39.8,hereditary cancer,,,,,"
-"44,hereditary cancer,,,,,"
-"10,hereditary cancer,,,,,"
-"11,hereditary cancer,,,,,"
-"44,hereditary cancer,,,,,"
-"3,hereditary cancer,,,,,"
-"40,hereditary cancer,,,,,"
-"72,hereditary cancer,,,,,"
-"38,hereditary cancer,,,,,"
-"38,hereditary cancer,,,,,"
-"45,hereditary cancer,,,,,"
-"12,noncancerous polyp,,,,,"
-"19,noncancerous polyp,,,,,"
-"18,noncancerous polyp,,,,,"
-"33,noncancerous polyp,,,,,"
-"39,noncancerous polyp,,,,,"
-"52,noncancerous polyp,,,,,"
-"43,noncancerous polyp,,,,,"
-"33,noncancerous polyp,,,,28.04,"
-"22,noncancerous polyp,,,,,"
-"21,noncancerous polyp,,,,,"
-"21,noncancerous polyp,,,,,"
-"21,noncancerous polyp,,,,,"
-"12,noncancerous polyp,,,,,"
-"45,noncancerous polyp,,,,,"
-"45,noncancerous polyp,,,,,"
-"54,noncancerous polyp,,,,,"
-"33,noncancerous polyp,,,,,"
-"3,noncancerous polyp,,,,,"
-"33,noncancerous polyp,,,,,"
-"38,noncancerous polyp,,,,,"
-"12,noncancerous polyp,,,,,"
-"12,noncancerous polyp,,,,,"
-"14,noncancerous polyp,,,,,"
-"18,noncancerous polyp,,,,,"
-"48,noncancerous polyp,,,,,"
+﻿VD,cancer,,,,,
+2,gastrointestinal stromal tumor,,,,,
+22,gastrointestinal stromal tumor,,,,,
+33,gastrointestinal stromal tumor,,,,,
+22,gastrointestinal stromal tumor,,,,,
+11.9,gastrointestinal stromal tumor,,,,,
+12.5,gastrointestinal stromal tumor,,,,,
+13.4,gastrointestinal stromal tumor,,,,,
+49,gastrointestinal stromal tumor,,,,23.16521739,
+48,gastrointestinal stromal tumor,,,,23.37777778,
+19,gastrointestinal stromal tumor,,,,,
+14,gastrointestinal stromal tumor,,,,,
+52,gastrointestinal stromal tumor,,,,,
+21,gastrointestinal stromal tumor,,,,,
+11,gastrointestinal stromal tumor,,,,,
+18,gastrointestinal stromal tumor,,,,,
+17,gastrointestinal stromal tumor,,,,,
+1,gastrointestinal stromal tumor,,,,,
+9,gastrointestinal stromal tumor,,,,,
+78,gastrointestinal stromal tumor,,,,,
+2,gastrointestinal stromal tumor,,,,,
+22,gastrointestinal stromal tumor,,,,,
+33,gastrointestinal stromal tumor,,,,,
+22,gastrointestinal stromal tumor,,,,,
+11.9,carcinoid tumor,,,,,
+12.5,carcinoid tumor,,,,,
+13.4,carcinoid tumor,,,,,
+49,carcinoid tumor,,,,,
+48,carcinoid tumor,,,,,
+19,carcinoid tumor,,,,,
+14,carcinoid tumor,,,,,
+52,carcinoid tumor,,,,,
+21,carcinoid tumor,,,,,
+11,carcinoid tumor,,,,,
+18,carcinoid tumor,,,,,
+17,carcinoid tumor,,,,,
+1,carcinoid tumor,,,,,
+9,carcinoid tumor,,,,,
+78,carcinoid tumor,,,,,
+11,carcinoid tumor,,,,,
+18,carcinoid tumor,,,,,
+17,carcinoid tumor,,,,,
+1,lymphoma,,,,,
+9,lymphoma,,,,,
+78,lymphoma,,,,,
+2,lymphoma,,,,,
+22,lymphoma,,,,,
+33,lymphoma,,,,,
+22,lymphoma,,,,,
+11.9,lymphoma,,,,,
+12.5,lymphoma,,,,,
+13.4,lymphoma,,,,,
+44,lymphoma,,,,,
+19,lymphoma,,,,,
+2.3,adenocarcinoma,,,,,
+4.8,adenocarcinoma,,,,19.06296296,
+11.9,adenocarcinoma,,,,,
+18.2,adenocarcinoma,,,,,
+23,adenocarcinoma,,,,,
+68,adenocarcinoma,,,,,
+4.3,adenocarcinoma,,,,,
+8.5,adenocarcinoma,,,,,
+33.9,adenocarcinoma,,,,,
+14.4,adenocarcinoma,,,,,
+13.2,adenocarcinoma,,,,,
+6.6,adenocarcinoma,,,,,
+7.8,adenocarcinoma,,,,,
+19,adenocarcinoma,,,,,
+22,adenocarcinoma,,,,,
+28,adenocarcinoma,,,,,
+4,adenocarcinoma,,,,,
+44,adenocarcinoma,,,,,
+23,adenocarcinoma,,,,,
+16,adenocarcinoma,,,,,
+15,adenocarcinoma,,,,,
+12,adenocarcinoma,,,,,
+39.8,adenocarcinoma,,,,,
+44,adenocarcinoma,,,,,
+10,adenocarcinoma,,,,,
+11,adenocarcinoma,,,,,
+10,adenocarcinoma,,,,,
+22,squamous cell carcinoma,,,,,
+28,squamous cell carcinoma,,,,,
+4,squamous cell carcinoma,,,,,
+44,squamous cell carcinoma,,,,,
+23,squamous cell carcinoma,,,,,
+16,squamous cell carcinoma,,,,,
+15,squamous cell carcinoma,,,,,
+12,squamous cell carcinoma,,,,,
+39.8,squamous cell carcinoma,,,,,
+44,squamous cell carcinoma,,,,,
+10,squamous cell carcinoma,,,,,
+11,squamous cell carcinoma,,,,,
+10,squamous cell carcinoma,,,,,
+22,squamous cell carcinoma,,,,,
+11.9,squamous cell carcinoma,,,,,
+12.5,squamous cell carcinoma,,,,,
+13.4,squamous cell carcinoma,,,,,
+44,squamous cell carcinoma,,,,,
+19,squamous cell carcinoma,,,,,
+2.3,squamous cell carcinoma,,,,,
+4.8,squamous cell carcinoma,,,,,
+11.9,squamous cell carcinoma,,,,,
+18.2,squamous cell carcinoma,,,,,
+23,squamous cell carcinoma,,,,,
+68,squamous cell carcinoma,,,,,
+4.3,squamous cell carcinoma,,,,,
+8.5,squamous cell carcinoma,,,,,
+33.9,melanoma,,,,,
+14.4,melanoma,,,,,
+13.2,melanoma,,,,,
+9,melanoma,,,,,22
+78,melanoma,,,,,18.57222222
+11,melanoma,,,,,
+18,melanoma,,,,,
+17,melanoma,,,,,
+1,melanoma,,,,,
+9,melanoma,,,,,
+78,melanoma,,,,,
+2,melanoma,,,,,
+22,melanoma,,,,,
+33,melanoma,,,,,
+22,melanoma,,,,,
+11.9,melanoma,,,,,
+12.5,melanoma,,,,,
+13.4,anal cancer,,,,,
+44,anal cancer,,,,,
+19,anal cancer,,,,,
+2.3,anal cancer,,,,,
+4.8,anal cancer,,,,,
+11.9,anal cancer,,,,,
+18.2,anal cancer,,,,,
+23,anal cancer,,,,,
+68,anal cancer,,,,,
+4.3,anal cancer,,,,,
+8.5,anal cancer,,,,,
+33.9,anal cancer,,,,,
+14.4,anal cancer,,,,,
+13.2,anal cancer,,,,,
+6.6,anal cancer,,,,,
+7.8,anal cancer,,,,,
+19,anal cancer,,,,,
+22,anal cancer,,,,,
+28,hereditary cancer,,,,29.71111111,
+12,hereditary cancer,,,,,
+44,hereditary cancer,,,,,
+23,hereditary cancer,,,,,
+16,hereditary cancer,,,,,
+15,hereditary cancer,,,,,
+12,hereditary cancer,,,,,
+39.8,hereditary cancer,,,,,
+44,hereditary cancer,,,,,
+10,hereditary cancer,,,,,
+11,hereditary cancer,,,,,
+44,hereditary cancer,,,,,
+3,hereditary cancer,,,,,
+40,hereditary cancer,,,,,
+72,hereditary cancer,,,,,
+38,hereditary cancer,,,,,
+38,hereditary cancer,,,,,
+45,hereditary cancer,,,,,
+12,noncancerous polyp,,,,,
+19,noncancerous polyp,,,,,
+18,noncancerous polyp,,,,,
+33,noncancerous polyp,,,,,
+39,noncancerous polyp,,,,,
+52,noncancerous polyp,,,,,
+43,noncancerous polyp,,,,,
+33,noncancerous polyp,,,,28.04,
+22,noncancerous polyp,,,,,
+21,noncancerous polyp,,,,,
+21,noncancerous polyp,,,,,
+21,noncancerous polyp,,,,,
+12,noncancerous polyp,,,,,
+45,noncancerous polyp,,,,,
+45,noncancerous polyp,,,,,
+54,noncancerous polyp,,,,,
+33,noncancerous polyp,,,,,
+3,noncancerous polyp,,,,,
+33,noncancerous polyp,,,,,
+38,noncancerous polyp,,,,,
+12,noncancerous polyp,,,,,
+12,noncancerous polyp,,,,,
+14,noncancerous polyp,,,,,
+18,noncancerous polyp,,,,,
+48,noncancerous polyp,,,,,
